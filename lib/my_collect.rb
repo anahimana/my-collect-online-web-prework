@@ -8,7 +8,7 @@ def my_collect(array)
       i = i + 1
     end
  
-    array
+    new_array
   else
     puts "Hey! No block was given!"
   end
